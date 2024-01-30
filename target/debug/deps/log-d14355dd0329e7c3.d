@@ -1,0 +1,13 @@
+C:\Users\almor\Desktop\asynced_test\target\debug\deps\liblog-d14355dd0329e7c3.rmeta: C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\lib.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\macros.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\serde.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\kv\mod.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\kv\error.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\kv\key.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\kv\source.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\kv\value.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\__private_api.rs
+
+C:\Users\almor\Desktop\asynced_test\target\debug\deps\log-d14355dd0329e7c3.d: C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\lib.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\macros.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\serde.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\kv\mod.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\kv\error.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\kv\key.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\kv\source.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\kv\value.rs C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\__private_api.rs
+
+C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\lib.rs:
+C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\macros.rs:
+C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\serde.rs:
+C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\kv\mod.rs:
+C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\kv\error.rs:
+C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\kv\key.rs:
+C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\kv\source.rs:
+C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\kv\value.rs:
+C:\Users\almor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\log-0.4.20\src\__private_api.rs:

@@ -1,0 +1,1 @@
+C:\Users\almor\Desktop\asynced_test\target\debug\asynced_test.exe: C:\Users\almor\Desktop\asynced_test\src\arguments_manager\mod.rs C:\Users\almor\Desktop\asynced_test\src\lib.rs C:\Users\almor\Desktop\asynced_test\src\main.rs C:\Users\almor\Desktop\asynced_test\src\types_manager\mod.rs

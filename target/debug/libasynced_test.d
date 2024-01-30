@@ -1,0 +1,1 @@
+C:\Users\almor\Desktop\asynced_test\target\debug\libasynced_test.rlib: C:\Users\almor\Desktop\asynced_test\src\arguments_manager\mod.rs C:\Users\almor\Desktop\asynced_test\src\lib.rs C:\Users\almor\Desktop\asynced_test\src\types_manager\mod.rs
